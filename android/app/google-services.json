@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950807609645",
+    "project_id": "field-service-technicians",
+    "storage_bucket": "field-service-technicians.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950807609645:android:727a7569babdf6622c13a4",
+        "android_client_info": {
+          "package_name": "com.example.fst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOhIH2m7_MJKM60FdrFBYStL8jxTOgMi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
